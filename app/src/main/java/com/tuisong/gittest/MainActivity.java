@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //我在这里要开发个导航栏的功能
         setContentView(R.layout.activity_main);
-        //我是搜索啊 你见怪不怪啊  你说你是啥玩意啊
+        //我是搜索啊 你见怪不怪啊 
     }
 }
