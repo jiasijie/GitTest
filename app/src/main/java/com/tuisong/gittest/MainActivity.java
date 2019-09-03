@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //我是搜索啊 你见怪不怪啊
+        //我是搜索啊 你见怪不怪啊  你说你是啥玩意啊
     }
 }
